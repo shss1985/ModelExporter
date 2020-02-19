@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+      <Assembly>ModelExporter.dll</Assembly>
+      <ClientId>356CDA5A-E6C5-4c2f-A9EF-B4333226B8C8</ClientId>
+      <FullClassName>ModelExporter.App</FullClassName>
+      <Name>Model Exporter External Application</Name>
+      <VendorId>SS</VendorId>
+      <VendorDescription>https://twitter.com/SergeyShevtsov8</VendorDescription>	  
+   </AddIn>
+</RevitAddIns>
